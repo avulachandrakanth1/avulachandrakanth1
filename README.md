@@ -3,15 +3,15 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" >
 
-- 🔭 I’m currently working on **Angular Developer**
+- 🔭 I’m currently working on **React Native Developer**
 
 - 🌱 I’m currently learning **Backend**
 
 - 👯 I’m looking to collaborate on **Full stack projects**
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **React Native**
 
-- 📫 How to reach me **chandrakantavula@gmail.com**
+- 📫 How to reach me **avulachandrakanth.15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
