@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://github.com/avulachandrakanth1)
 <h1 align="center">Hi 👋, I'm Chandrakanth Avula</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Hybrid mobile app developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" >
 
 - 🔭 I’m currently working on **React Native Developer**
